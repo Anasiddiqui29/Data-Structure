@@ -1,0 +1,3 @@
+sorting_algorithm = quicksort
+searching_algorithm = binarysearch
+threshold = 10
